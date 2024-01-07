@@ -11,3 +11,7 @@
 .navbar{
     background-color: #313247 !important;
 }
+
+.hidden{
+    visibility: hidden;
+}
