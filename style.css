@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.card-img-top{
+    object-fit: contain;
+    height: 70%;
+}
+
+.navbar{
+    background-color: #313247 !important;
+}
